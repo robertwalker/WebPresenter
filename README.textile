@@ -1,0 +1,9 @@
+h1. WebPresenter
+
+Presents a configurable list of web sites as a slide show with transition effects.
+
+h2. Purpose
+
+The application was used in the dispatch center for an international trucking company. The primary content presented was a series of maps showing geographical positions of trucks, custom order informational reports and charts pulled directing from the custom transportation management system built in-house by the software development department.
+
+The slides were presented on a 60 inch flat panel television driven by a MacMini. The purpose of the system was to provide a quick overview of Bennett International Group's business information reporting systems to visiting customers and employees.
